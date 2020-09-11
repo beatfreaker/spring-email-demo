@@ -22,4 +22,4 @@ then start spring server and call api to check if email is getting sent or not.
 ### Real SMTP email
 
 If we want to use any other SMTP server we have to modify server details like
-host, port, username and password in [Cnfiguration.java](https://github.com/beatfreaker/spring-email-demo/blob/master/src/main/java/com/beatfreaker/springemaildemo/Configuration.java#L19)
+host, port, username and password in [Configuration.java](https://github.com/beatfreaker/spring-email-demo/blob/master/src/main/java/com/beatfreaker/springemaildemo/Configuration.java#L19)
